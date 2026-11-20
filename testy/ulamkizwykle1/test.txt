@@ -792,7 +792,7 @@ A: Nie,
 B: Tak,
 1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
-3: ponieważ te iloczyny są różne.
+3: ponieważ te ilorazy są różne.
 POPRAWNA: B2
 @KONIEC
 @WERSJA 2
@@ -800,7 +800,7 @@ Czy ułamki $$\frac{3}{5}$$ i $$\frac{7}{10}$$ są równe? Wybierz odpowiedź i 
 A: Nie,
 B: Tak,
 1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
-2: ponieważ te iloczyny są różne.
+2: ponieważ te ilorazy są różne.
 3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 POPRAWNA: A2
 @KONIEC
@@ -810,7 +810,7 @@ A: Tak,
 B: Nie,
 1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
-3: ponieważ te iloczyny są różne.
+3: ponieważ te ilorazy są różne.
 POPRAWNA: A1
 @KONIEC
 @WERSJA 4
@@ -819,7 +819,7 @@ A: Nie,
 B: Tak,
 1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
-3: ponieważ te iloczyny są różne.
+3: ponieważ te ilorazy są różne.
 POPRAWNA: A3
 @KONIEC
 @WERSJA 5
@@ -828,7 +828,7 @@ A: Tak,
 B: Nie,
 1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
-3: ponieważ te iloczyny są różne.
+3: ponieważ te ilorazy są różne.
 POPRAWNA: A2
 @KONIEC
 @WERSJA 6
@@ -836,7 +836,7 @@ Czy ułamki $$\frac{2}{7}$$ i $$\frac{7}{21}$$ są równe? Wybierz odpowiedź i 
 A: Nie,
 B: Tak,
 1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
-2: ponieważ te iloczyny są różne.
+2: ponieważ te ilorazy są różne.
 3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 POPRAWNA: A2
 @KONIEC
@@ -844,7 +844,7 @@ POPRAWNA: A2
 Czy ułamki $$\frac{5}{9}$$ i $$\frac{15}{27}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
 A: Nie,
 B: Tak,
-1: ponieważ te iloczyny są różne.
+1: ponieważ te ilorazy są różne.
 2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 POPRAWNA: B2
@@ -854,7 +854,7 @@ Czy ułamki $$\frac{4}{11}$$ i $$\frac{13}{33}$$ są równe? Wybierz odpowiedź 
 A: Nie,
 B: Tak,
 1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
-2: ponieważ te iloczyny są różne.
+2: ponieważ te ilorazy są różne.
 3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 POPRAWNA: A2
 @KONIEC
@@ -863,7 +863,7 @@ Czy ułamki $$\frac{7}{10}$$ i $$\frac{14}{20}$$ są równe? Wybierz odpowiedź 
 A: Tak,
 B: Nie,
 1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
-2: ponieważ te iloczyny są różne.
+2: ponieważ te ilorazy są różne.
 3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 POPRAWNA: A1
 @KONIEC
@@ -871,7 +871,7 @@ POPRAWNA: A1
 Czy ułamki $$\frac{5}{12}$$ i $$\frac{16}{36}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
 A: Tak,
 B: Nie,
-1: ponieważ te iloczyny są różne.
+1: ponieważ te ilorazy są różne.
 2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
 3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
 POPRAWNA: B1
