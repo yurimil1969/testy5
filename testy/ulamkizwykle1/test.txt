@@ -1,0 +1,879 @@
+@ZADANIE ABCD
+@WERSJA 1
+Zapisz iloraz $$ 3:8 $$ w postaci ułamka.
+A: $$\frac{3}{8}$$
+B: $$\frac{8}{3}$$
+C: $$\frac{3}{11}$$
+D: $$\frac{1}{8}$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Zapisz iloraz $$ 5:9 $$ w postaci ułamka.
+A: $$\frac{9}{5}$$
+B: $$\frac{5}{9}$$
+C: $$\frac{1}{9}$$
+D: $$\frac{5}{14}$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 3
+Zapisz iloraz $$ 4:11 $$ w postaci ułamka.
+A: $$\frac{4}{15}$$
+B: $$\frac{4}{11}$$
+C: $$\frac{1}{11}$$
+D: $$\frac{11}{4}$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+Zapisz iloraz $$ 7:12 $$ w postaci ułamka.
+A: $$\frac{12}{7}$$
+B: $$\frac{7}{19}$$
+C: $$\frac{7}{12}$$
+D: $$\frac{1}{12}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Zapisz iloraz $$ 2:7 $$ w postaci ułamka.
+A: $$\frac{1}{7}$$
+B: $$\frac{7}{2}$$
+C: $$\frac{2}{7}$$
+D: $$\frac{2}{9}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 6
+Zapisz iloraz $$ 8:13 $$ w postaci ułamka.
+A: $$\frac{1}{13}$$
+B: $$\frac{8}{13}$$
+C: $$\frac{13}{8}$$
+D: $$\frac{8}{21}$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Zapisz iloraz $$ 5:12 $$ w postaci ułamka.
+A: $$\frac{1}{12}$$
+B: $$\frac{12}{5}$$
+C: $$\frac{5}{12}$$
+D: $$\frac{5}{17}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Zapisz iloraz $$ 9:14 $$ w postaci ułamka.
+A: $$\frac{9}{23}$$
+B: $$\frac{14}{9}$$
+C: $$\frac{1}{14}$$
+D: $$\frac{9}{14}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Zapisz iloraz $$ 7:15 $$ w postaci ułamka.
+A: $$\frac{7}{15}$$
+B: $$\frac{7}{22}$$
+C: $$\frac{15}{7}$$
+D: $$\frac{1}{15}$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Zapisz iloraz $$ 11:16 $$ w postaci ułamka.
+A: $$\frac{11}{16}$$
+B: $$\frac{16}{11}$$
+C: $$\frac{11}{27}$$
+D: $$\frac{1}{16}$$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Skróć ułamek $$\frac{6}{15}$$ do postaci nieskracalnej.
+A: $$\frac{6}{5}$$
+B: $$\frac{6}{15}$$
+C: $$\frac{2}{5}$$
+D: $$\frac{2}{15}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 2
+Skróć ułamek $$\frac{12}{28}$$ do postaci nieskracalnej.
+A: $$\frac{12}{28}$$
+B: $$\frac{12}{7}$$
+C: $$\frac{3}{7}$$
+D: $$\frac{3}{28}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Skróć ułamek $$\frac{12}{27}$$ do postaci nieskracalnej.
+A: $$\frac{4}{27}$$
+B: $$\frac{12}{9}$$
+C: $$\frac{4}{9}$$
+D: $$\frac{12}{27}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Skróć ułamek $$\frac{20}{32}$$ do postaci nieskracalnej.
+A: $$\frac{20}{32}$$
+B: $$\frac{20}{8}$$
+C: $$\frac{5}{8}$$
+D: $$\frac{5}{32}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Skróć ułamek $$\frac{9}{33}$$ do postaci nieskracalnej.
+A: $$\frac{3}{11}$$
+B: $$\frac{3}{33}$$
+C: $$\frac{9}{11}$$
+D: $$\frac{9}{33}$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Skróć ułamek $$\frac{21}{30}$$ do postaci nieskracalnej.
+A: $$\frac{7}{10}$$
+B: $$\frac{7}{30}$$
+C: $$\frac{21}{10}$$
+D: $$\frac{21}{30}$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 7
+Skróć ułamek $$\frac{20}{48}$$ do postaci nieskracalnej.
+A: $$\frac{20}{48}$$
+B: $$\frac{20}{12}$$
+C: $$\frac{5}{12}$$
+D: $$\frac{5}{48}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Skróć ułamek $$\frac{20}{35}$$ do postaci nieskracalnej.
+A: $$\frac{20}{35}$$
+B: $$\frac{20}{7}$$
+C: $$\frac{4}{35}$$
+D: $$\frac{4}{7}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Skróć ułamek $$\frac{21}{27}$$ do postaci nieskracalnej.
+A: $$\frac{21}{9}$$
+B: $$\frac{7}{27}$$
+C: $$\frac{21}{27}$$
+D: $$\frac{7}{9}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 10
+Skróć ułamek $$\frac{20}{52}$$ do postaci nieskracalnej.
+A: $$\frac{5}{52}$$
+B: $$\frac{20}{13}$$
+C: $$\frac{20}{52}$$
+D: $$\frac{5}{13}$$
+POPRAWNA: D
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Rozszerz ułamek $$\frac{2}{3}$$ do mianownika 12.
+A: $$\frac{8}{12}$$
+B: $$\frac{2}{12}$$
+C: $$\frac{9}{12}$$
+D: $$\frac{6}{12}$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Rozszerz ułamek $$\frac{3}{5}$$ do mianownika 20.
+A: $$\frac{3}{20}$$
+B: $$\frac{7}{20}$$
+C: $$\frac{12}{20}$$
+D: $$\frac{13}{20}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Rozszerz ułamek $$\frac{4}{7}$$ do mianownika 21.
+A: $$\frac{13}{21}$$
+B: $$\frac{7}{21}$$
+C: $$\frac{4}{21}$$
+D: $$\frac{12}{21}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 4
+Rozszerz ułamek $$\frac{5}{8}$$ do mianownika 32.
+A: $$\frac{9}{32}$$
+B: $$\frac{21}{32}$$
+C: $$\frac{5}{32}$$
+D: $$\frac{20}{32}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 5
+Rozszerz ułamek $$\frac{3}{4}$$ do mianownika 28.
+A: $$\frac{22}{28}$$
+B: $$\frac{21}{28}$$
+C: $$\frac{10}{28}$$
+D: $$\frac{3}{28}$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+Rozszerz ułamek $$\frac{5}{9}$$ do mianownika 36.
+A: $$\frac{9}{36}$$
+B: $$\frac{5}{36}$$
+C: $$\frac{21}{36}$$
+D: $$\frac{20}{36}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 7
+Rozszerz ułamek $$\frac{7}{10}$$ do mianownika 40.
+A: $$\frac{11}{40}$$
+B: $$\frac{7}{40}$$
+C: $$\frac{28}{40}$$
+D: $$\frac{29}{40}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Rozszerz ułamek $$\frac{2}{7}$$ do mianownika 35.
+A: $$\frac{7}{35}$$
+B: $$\frac{11}{35}$$
+C: $$\frac{2}{35}$$
+D: $$\frac{10}{35}$$
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Rozszerz ułamek $$\frac{3}{8}$$ do mianownika 48.
+A: $$\frac{19}{48}$$
+B: $$\frac{9}{48}$$
+C: $$\frac{18}{48}$$
+D: $$\frac{3}{48}$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 10
+Rozszerz ułamek $$\frac{4}{11}$$ do mianownika 44.
+A: $$\frac{4}{44}$$
+B: $$\frac{17}{44}$$
+C: $$\frac{16}{44}$$
+D: $$\frac{8}{44}$$
+POPRAWNA: C
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Wyłącz całości z ułamka $$\frac{7}{3}$$.
+A: $$ 1\frac{1}{3} $$
+B: $$ 2\frac{1}{3} $$
+C: $$ 2\frac{2}{3} $$
+D: $$ 3\frac{1}{3} $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Wyłącz całości z ułamka $$\frac{17}{5}$$.
+A: $$ 3\frac{2}{5} $$
+B: $$ 4\frac{2}{5} $$
+C: $$ 3\frac{3}{5} $$
+D: $$ 2\frac{2}{5} $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+Wyłącz całości z ułamka $$\frac{31}{7}$$.
+A: $$ 4\frac{3}{7} $$
+B: $$ 5\frac{3}{7} $$
+C: $$ 3\frac{3}{7} $$
+D: $$ 4\frac{4}{7} $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 4
+Wyłącz całości z ułamka $$\frac{11}{4}$$.
+A: $$ 2\frac{3}{4} $$
+B: $$ 1\frac{3}{4} $$
+C: $$ 3\frac{3}{4} $$
+D: $$ 2\frac{1}{4} $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+Wyłącz całości z ułamka $$\frac{31}{6}$$.
+A: $$ 6\frac{1}{6} $$
+B: $$ 5\frac{5}{6} $$
+C: $$ 4\frac{1}{6} $$
+D: $$ 5\frac{1}{6} $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 6
+Wyłącz całości z ułamka $$\frac{31}{9}$$.
+A: $$ 2\frac{4}{9} $$
+B: $$ 3\frac{5}{9} $$
+C: $$ 4\frac{4}{9} $$
+D: $$ 3\frac{4}{9} $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 7
+Wyłącz całości z ułamka $$\frac{37}{8}$$.
+A: $$ 4\frac{3}{8} $$
+B: $$ 5\frac{5}{8} $$
+C: $$ 4\frac{5}{8} $$
+D: $$ 3\frac{5}{8} $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Wyłącz całości z ułamka $$\frac{44}{7}$$.
+A: $$ 6\frac{5}{7} $$
+B: $$ 5\frac{2}{7} $$
+C: $$ 6\frac{2}{7} $$
+D: $$ 7\frac{2}{7} $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 9
+Wyłącz całości z ułamka $$\frac{17}{6}$$.
+A: $$ 2\frac{5}{6} $$
+B: $$ 3\frac{5}{6} $$
+C: $$ 2\frac{1}{6} $$
+D: $$ 1\frac{5}{6} $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Wyłącz całości z ułamka $$\frac{43}{8}$$.
+A: $$ 5\frac{3}{8} $$
+B: $$ 6\frac{3}{8} $$
+C: $$ 4\frac{3}{8} $$
+D: $$ 5\frac{5}{8} $$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Wstaw poprawny znak: $$\frac{3}{4}$$ ... $$\frac{5}{8}$$.
+A: Nie można porównać tych ułamków.
+B: $$ > $$
+C: $$ < $$
+D: $$ = $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Wstaw poprawny znak: $$\frac{2}{3}$$ ... $$\frac{3}{5}$$.
+A: $$ > $$
+B: $$ = $$
+C: $$ < $$
+D: Nie można porównać tych ułamków.
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+Wstaw poprawny znak: $$\frac{5}{6}$$ ... $$\frac{7}{9}$$.
+A: $$ < $$
+B: $$ = $$
+C: $$ > $$
+D: Nie można porównać tych ułamków.
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Wstaw poprawny znak: $$\frac{4}{7}$$ ... $$\frac{3}{5}$$.
+A: $$ < $$
+B: $$ > $$
+C: Nie można porównać tych ułamków.
+D: $$ = $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+Wstaw poprawny znak: $$\frac{7}{10}$$ ... $$\frac{2}{3}$$.
+A: $$ < $$
+B: $$ > $$
+C: Nie można porównać tych ułamków.
+D: $$ = $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+Wstaw poprawny znak: $$\frac{5}{12}$$ ... $$\frac{3}{8}$$.
+A: $$ = $$
+B: $$ < $$
+C: Nie można porównać tych ułamków.
+D: $$ > $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 7
+Wstaw poprawny znak: $$\frac{7}{8}$$ ... $$\frac{9}{10}$$.
+A: $$ = $$
+B: Nie można porównać tych ułamków.
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 8
+Wstaw poprawny znak: $$\frac{4}{9}$$ ... $$\frac{5}{12}$$.
+A: $$ > $$
+B: Nie można porównać tych ułamków.
+C: $$ = $$
+D: $$ < $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+Wstaw poprawny znak: $$\frac{5}{7}$$ ... $$\frac{7}{10}$$.
+A: Nie można porównać tych ułamków.
+B: $$ < $$
+C: $$ = $$
+D: $$ > $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 10
+Wstaw poprawny znak: $$\frac{3}{11}$$ ... $$\frac{2}{7}$$.
+A: Nie można porównać tych ułamków.
+B: $$ > $$
+C: $$ = $$
+D: $$ < $$
+POPRAWNA: D
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{2}{3}$$ i $$\frac{8}{12}$$ są równe. | P
+2: Ułamek $$\frac{8}{12}$$ jest równy $$\frac{2}{3}$$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{3}{5}$$ i $$\frac{10}{15}$$ są równe. | F
+2: Ułamek $$\frac{9}{15}$$ jest równy $$\frac{3}{5}$$. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 3
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{4}{7}$$ i $$\frac{8}{14}$$ są równe. | P
+2: Ułamek $$\frac{8}{15}$$ jest równy $$\frac{4}{7}$$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{5}{8}$$ i $$\frac{16}{24}$$ są równe. | F
+2: Ułamek $$\frac{15}{25}$$ jest równy $$\frac{5}{8}$$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 5
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{3}{4}$$ i $$\frac{15}{20}$$ są równe. | P
+2: Ułamek $$\frac{15}{20}$$ jest równy $$\frac{3}{4}$$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 6
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{2}{9}$$ i $$\frac{9}{36}$$ są równe. | F
+2: Ułamek $$\frac{8}{36}$$ jest równy $$\frac{2}{9}$$. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 7
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{5}{6}$$ i $$\frac{15}{18}$$ są równe. | P
+2: Ułamek $$\frac{15}{19}$$ jest równy $$\frac{5}{6}$$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 8
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{7}{10}$$ i $$\frac{15}{20}$$ są równe. | F
+2: Ułamek $$\frac{14}{21}$$ jest równy $$\frac{7}{10}$$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{4}{11}$$ i $$\frac{12}{33}$$ są równe. | P
+2: Ułamek $$\frac{12}{33}$$ jest równy $$\frac{4}{11}$$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 10
+Oceń prawdziwość zdań dotyczących ułamków.
+1: Ułamki $$\frac{5}{12}$$ i $$\frac{11}{24}$$ są równe. | F
+2: Ułamek $$\frac{10}{24}$$ jest równy $$\frac{5}{12}$$. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{5}{4}$$ można wyłączyć 1 pełnych całości. | P
+2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{7}{3}$$ można wyłączyć 3 pełnych całości. | F
+2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 3
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{9}{5}$$ można wyłączyć 1 pełnych całości. | P
+2: Po wyłączeniu całości część ułamkowa ma licznik 0. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{11}{4}$$ można wyłączyć 3 pełnych całości. | F
+2: Po wyłączeniu całości część ułamkowa ma licznik 0. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 5
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{13}{6}$$ można wyłączyć 2 pełnych całości. | P
+2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 6
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{17}{5}$$ można wyłączyć 4 pełnych całości. | F
+2: Po wyłączeniu całości część ułamkowa ma licznik 2. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 7
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{15}{7}$$ można wyłączyć 2 pełnych całości. | P
+2: Po wyłączeniu całości część ułamkowa ma licznik 2. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 8
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{19}{8}$$ można wyłączyć 3 pełnych całości. | F
+2: Po wyłączeniu całości część ułamkowa ma licznik 4. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{14}{3}$$ można wyłączyć 4 pełnych całości. | P
+2: Po wyłączeniu całości część ułamkowa ma licznik 2. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 10
+Oceń prawdziwość zdań.
+1: W ułamku $$\frac{23}{6}$$ można wyłączyć 4 pełnych całości. | F
+2: Po wyłączeniu całości część ułamkowa ma licznik 5. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE LUKI
+@WERSJA 1
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{2}{3}$$ [[AB]] $$\frac{3}{4}$$
+---
+$$\frac{3}{4}$$ [[CD]] $$\frac{2}{3}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 2
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{3}{5}$$ [[AB]] $$\frac{2}{5}$$
+---
+$$\frac{2}{5}$$ [[CD]] $$\frac{3}{5}$$
+A: $$ < $$
+B: $$ > $$
+C: $$ < $$
+D: $$ > $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 3
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{5}{8}$$ [[AB]] $$\frac{7}{8}$$
+---
+$$\frac{7}{8}$$ [[CD]] $$\frac{5}{8}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 4
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{4}{7}$$ [[AB]] $$\frac{3}{7}$$
+---
+$$\frac{3}{7}$$ [[CD]] $$\frac{4}{7}$$
+A: $$ < $$
+B: $$ > $$
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 5
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{5}{6}$$ [[AB]] $$\frac{7}{9}$$
+---
+$$\frac{7}{9}$$ [[CD]] $$\frac{5}{6}$$
+A: $$ < $$
+B: $$ > $$
+C: $$ < $$
+D: $$ > $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 6
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{3}{4}$$ [[AB]] $$\frac{5}{6}$$
+---
+$$\frac{5}{6}$$ [[CD]] $$\frac{3}{4}$$
+A: $$ < $$
+B: $$ > $$
+C: $$ < $$
+D: $$ > $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 7
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{7}{10}$$ [[AB]] $$\frac{2}{5}$$
+---
+$$\frac{2}{5}$$ [[CD]] $$\frac{7}{10}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 8
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{4}{9}$$ [[AB]] $$\frac{5}{9}$$
+---
+$$\frac{5}{9}$$ [[CD]] $$\frac{4}{9}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ < $$
+D: $$ > $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 9
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{7}{12}$$ [[AB]] $$\frac{5}{8}$$
+---
+$$\frac{5}{8}$$ [[CD]] $$\frac{7}{12}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ < $$
+D: $$ > $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 10
+Uzupełnij obie luki odpowiednimi znakami.
+---
+$$\frac{5}{11}$$ [[AB]] $$\frac{6}{11}$$
+---
+$$\frac{6}{11}$$ [[CD]] $$\frac{5}{11}$$
+A: $$ > $$
+B: $$ < $$
+C: $$ > $$
+D: $$ < $$
+POPRAWNA: BC
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE LUKI
+@WERSJA 1
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{2}{5}$$ = $$ \frac{\boxed{\phantom{00}}}{15} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{2}{5}$$ = $$ \frac{6}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 6 $$
+B: $$ 7 $$
+C: $$ 16 $$
+D: $$ 15 $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 2
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{3}{7}$$ = $$ \frac{\boxed{\phantom{00}}}{28} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{3}{7}$$ = $$ \frac{12}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 13 $$
+B: $$ 12 $$
+C: $$ 29 $$
+D: $$ 28 $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 3
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{4}{9}$$ = $$ \frac{\boxed{\phantom{00}}}{18} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{4}{9}$$ = $$ \frac{8}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 9 $$
+B: $$ 8 $$
+C: $$ 19 $$
+D: $$ 18 $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 4
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{5}{8}$$ = $$ \frac{\boxed{\phantom{00}}}{24} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{5}{8}$$ = $$ \frac{15}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 16 $$
+B: $$ 15 $$
+C: $$ 25 $$
+D: $$ 24 $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 5
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{3}{11}$$ = $$ \frac{\boxed{\phantom{00}}}{55} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{3}{11}$$ = $$ \frac{15}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 15 $$
+B: $$ 16 $$
+C: $$ 56 $$
+D: $$ 55 $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 6
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{7}{12}$$ = $$ \frac{\boxed{\phantom{00}}}{24} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{7}{12}$$ = $$ \frac{14}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 14 $$
+B: $$ 15 $$
+C: $$ 25 $$
+D: $$ 24 $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 7
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{5}{13}$$ = $$ \frac{\boxed{\phantom{00}}}{39} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{5}{13}$$ = $$ \frac{15}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 16 $$
+B: $$ 15 $$
+C: $$ 39 $$
+D: $$ 40 $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 8
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{4}{7}$$ = $$ \frac{\boxed{\phantom{00}}}{28} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{4}{7}$$ = $$ \frac{16}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 16 $$
+B: $$ 17 $$
+C: $$ 28 $$
+D: $$ 29 $$
+POPRAWNA: AC
+@KONIEC
+@WERSJA 9
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{7}{9}$$ = $$ \frac{\boxed{\phantom{00}}}{18} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{7}{9}$$ = $$ \frac{14}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 14 $$
+B: $$ 15 $$
+C: $$ 19 $$
+D: $$ 18 $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 10
+Uzupełnij licznik i mianownik, aby otrzymać ułamki równe.
+---
+Licznik: $$\frac{5}{6}$$ = $$ \frac{\boxed{\phantom{00}}}{30} $$, w ramce wpisz [[AB]].
+---
+Mianownik: $$\frac{5}{6}$$ = $$ \frac{25}{\boxed{\phantom{00}}} $$, w ramce wpisz [[CD]].
+A: $$ 25 $$
+B: $$ 26 $$
+C: $$ 30 $$
+D: $$ 31 $$
+POPRAWNA: AC
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE UZ
+@WERSJA 1
+Czy ułamki $$\frac{2}{3}$$ i $$\frac{4}{6}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+3: ponieważ te iloczyny są różne.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 2
+Czy ułamki $$\frac{3}{5}$$ i $$\frac{7}{10}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+2: ponieważ te iloczyny są różne.
+3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+POPRAWNA: A2
+@KONIEC
+@WERSJA 3
+Czy ułamki $$\frac{4}{7}$$ i $$\frac{8}{14}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+3: ponieważ te iloczyny są różne.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 4
+Czy ułamki $$\frac{5}{8}$$ i $$\frac{11}{16}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+3: ponieważ te iloczyny są różne.
+POPRAWNA: A3
+@KONIEC
+@WERSJA 5
+Czy ułamki $$\frac{3}{4}$$ i $$\frac{9}{12}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+3: ponieważ te iloczyny są różne.
+POPRAWNA: A2
+@KONIEC
+@WERSJA 6
+Czy ułamki $$\frac{2}{7}$$ i $$\frac{7}{21}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+2: ponieważ te iloczyny są różne.
+3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+POPRAWNA: A2
+@KONIEC
+@WERSJA 7
+Czy ułamki $$\frac{5}{9}$$ i $$\frac{15}{27}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ te iloczyny są różne.
+2: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 8
+Czy ułamki $$\frac{4}{11}$$ i $$\frac{13}{33}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Nie,
+B: Tak,
+1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+2: ponieważ te iloczyny są różne.
+3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+POPRAWNA: A2
+@KONIEC
+@WERSJA 9
+Czy ułamki $$\frac{7}{10}$$ i $$\frac{14}{20}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+2: ponieważ te iloczyny są różne.
+3: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 10
+Czy ułamki $$\frac{5}{12}$$ i $$\frac{16}{36}$$ są równe? Wybierz odpowiedź i jej uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ te iloczyny są różne.
+2: ponieważ oba ułamki mają dodatnie liczniki i mianowniki.
+3: ponieważ iloczyny licznika pierwszego ułamka i mianownika drugiego oraz mianownika pierwszego i licznika drugiego są równe.
+POPRAWNA: B1
+@KONIEC
+@KONIEC_ZADANIA
