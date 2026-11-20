@@ -480,61 +480,61 @@ POPRAWNA: FP
 @WERSJA 1
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{5}{4}$$ można wyłączyć 1 pełnych całości. | P
-2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+2: Po wyłączeniu całości z $$\frac{5}{4}$$ część ułamkowa ma licznik 1. | P
 POPRAWNA: PP
 @KONIEC
 @WERSJA 2
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{7}{3}$$ można wyłączyć 3 pełnych całości. | F
-2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+2: Po wyłączeniu całości z $$\frac{7}{3}$$ część ułamkowa ma licznik 1. | P
 POPRAWNA: FP
 @KONIEC
 @WERSJA 3
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{9}{5}$$ można wyłączyć 1 pełnych całości. | P
-2: Po wyłączeniu całości część ułamkowa ma licznik 0. | F
+2: Po wyłączeniu całości z $$\frac{9}{5}$$ część ułamkowa ma licznik 0. | F
 POPRAWNA: PF
 @KONIEC
 @WERSJA 4
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{11}{4}$$ można wyłączyć 3 pełnych całości. | F
-2: Po wyłączeniu całości część ułamkowa ma licznik 0. | F
+2: Po wyłączeniu całości z $$\frac{11}{4}$$ część ułamkowa ma licznik 0. | F
 POPRAWNA: FF
 @KONIEC
 @WERSJA 5
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{13}{6}$$ można wyłączyć 2 pełnych całości. | P
-2: Po wyłączeniu całości część ułamkowa ma licznik 1. | P
+2: Po wyłączeniu całości z $$\frac{13}{6}$$ część ułamkowa ma licznik 1. | P
 POPRAWNA: PP
 @KONIEC
 @WERSJA 6
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{17}{5}$$ można wyłączyć 4 pełnych całości. | F
-2: Po wyłączeniu całości część ułamkowa ma licznik 2. | P
+2: Po wyłączeniu całości z $$\frac{17}{5}$$ część ułamkowa ma licznik 2. | P
 POPRAWNA: FP
 @KONIEC
 @WERSJA 7
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{15}{7}$$ można wyłączyć 2 pełnych całości. | P
-2: Po wyłączeniu całości część ułamkowa ma licznik 2. | F
+2: Po wyłączeniu całości z $$\frac{15}{7}$$ część ułamkowa ma licznik 2. | F
 POPRAWNA: PF
 @KONIEC
 @WERSJA 8
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{19}{8}$$ można wyłączyć 3 pełnych całości. | F
-2: Po wyłączeniu całości część ułamkowa ma licznik 4. | F
+2: Po wyłączeniu całości z $$\frac{19}{8}$$ część ułamkowa ma licznik 4. | F
 POPRAWNA: FF
 @KONIEC
 @WERSJA 9
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{14}{3}$$ można wyłączyć 4 pełnych całości. | P
-2: Po wyłączeniu całości część ułamkowa ma licznik 2. | P
+2: Po wyłączeniu całości z $$\frac{14}{3}$$ część ułamkowa ma licznik 2. | P
 POPRAWNA: PP
 @KONIEC
 @WERSJA 10
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{23}{6}$$ można wyłączyć 4 pełnych całości. | F
-2: Po wyłączeniu całości część ułamkowa ma licznik 5. | P
+2: Po wyłączeniu całości z $$\frac{23}{6}$ część ułamkowa ma licznik 5. | P
 POPRAWNA: FP
 @KONIEC
 @KONIEC_ZADANIA
