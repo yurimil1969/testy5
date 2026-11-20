@@ -534,7 +534,7 @@ POPRAWNA: PP
 @WERSJA 10
 Oceń prawdziwość zdań.
 1: W ułamku $$\frac{23}{6}$$ można wyłączyć 4 pełnych całości. | F
-2: Po wyłączeniu całości z $$\frac{23}{6}$ część ułamkowa ma licznik 5. | P
+2: Po wyłączeniu całości z $$\frac{23}{6}$$ część ułamkowa ma licznik 5. | P
 POPRAWNA: FP
 @KONIEC
 @KONIEC_ZADANIA
